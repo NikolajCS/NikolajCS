@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nikolaj, an <a href="https://linkedin.com/in/Nikolaj">IT Professional</a>☺</h1>
+<h1>Hi, I'm Nikolaj, an <a href="https://linkedin.com/in/Nikolaj">IT Professional</a>☺</h1 >
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
